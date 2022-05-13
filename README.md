@@ -7,7 +7,8 @@ Feito(x)
 
 #Etapa 2
 Por enquanto tem apenas o HTML, quinta feita ou antes adicionarei a parte do CSS para implementar mais customização e deixar mais organizado.
-Feito()
+Feito(x)
+a parte do CSS foi muito complicada e bastante extença, não compreendi 100% de tudo mas consegui assimilar muita informação e foi bem interessante essa parte e divertida customizando o site.
 
 #Etapa 3
 Adicionar JavaScript e deixar com funcionamentos.
