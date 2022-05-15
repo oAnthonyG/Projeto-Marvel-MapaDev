@@ -12,7 +12,8 @@ a parte do CSS foi muito complicada e bastante extença, não compreendi 100% de
 
 #Etapa 3
 Adicionar JavaScript e deixar com funcionamentos.
-Feito()
+Feito(x)
+A parte do JS foi um pouco complicada por introduzir conceitos que eu não estava familiarizado ainda, mas consegui resolver todos mas com uma ajuda dos irmãos DevEmDobro.
 
-#Etapa Bonus
+#Etapa Bonus Futuramente...
 Customizar mais e adicionar mais funcionalidade e personagens.
